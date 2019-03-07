@@ -1,4 +1,4 @@
-package com.kodilla;
+package com.kodilla.mojeProjekty;
 
 import java.util.Scanner;
 
