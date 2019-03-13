@@ -32,7 +32,7 @@ public class Animals {
                 '}';
     }
 }
-class Test {
+class Testy {
     public static void main(String[] args) {
         Animals moj = new Animals();
         String animal = moj.getAnimal();
