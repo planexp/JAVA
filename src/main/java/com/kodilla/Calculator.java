@@ -1,3 +1,6 @@
+package com.kodilla;
+
+
 import java.util.Scanner;
 
 class Calculator {
