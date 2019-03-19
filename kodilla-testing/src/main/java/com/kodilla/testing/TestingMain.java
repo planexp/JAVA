@@ -17,11 +17,6 @@ public class TestingMain {
         } else {
             System.out.println("Error test1 !");
 
-
-
-
-
-
         }
 
     }
